@@ -1,0 +1,7 @@
+interface:
+  display_name: "文艺私人信件"
+  short_description: "创作或改写真实、私人、克制并具有文学感的中文私人信件"
+  default_prompt: "使用 $literary-letter 创作或改写一封具有私人感和文学感的中文信件。"
+
+policy:
+  allow_implicit_invocation: true
